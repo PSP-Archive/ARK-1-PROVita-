@@ -1,0 +1,15 @@
+/kd/modulemgr.prx,dist/MODULE.BIN
+/kd/exitgame.prx,dist/EXITGAME.BIN
+/kd/galaxy.prx,dist/GALAXY00.BIN
+/kd/inferno.prx,dist/INFERNO0.BIN
+/kd/march33.prx,dist/MARCH330.BIN
+/kd/mediasync.prx,dist/MEDIASYN.BIN
+/kd/stargate.prx,dist/STARGATE.BIN
+/kd/systemctrl.prx,dist/SYSCTRL0.BIN
+/kd/popcorn.prx,dist/POPCORN0.BIN
+/kd/popsman.prx,dist/POPSMAN0.BIN
+/vsh/module/libpspvmc.prx,dist/PSPVMC00.BIN
+pspbtinf.bin,dist/PSPBTINF.BIN
+pspbtmnf.bin,dist/PSPBTMNF.BIN
+pspbtnnf.bin,dist/PSPBTNNF.BIN
+/fake.cso,dist/FAKECSO0.BIN

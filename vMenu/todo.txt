@@ -1,0 +1,18 @@
+VisualMenu:
+
+-- log --
+-r3
+- Sound effect.
+- "Delete" feature.
+- EBOOT.OLD support
+
+-r2
+- ISO icon support.
+- VBOOT.PBP support.
+
+-- Todo list --
+no idea XD
+
+
+
+

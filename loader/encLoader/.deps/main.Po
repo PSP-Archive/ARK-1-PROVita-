@@ -1,0 +1,25 @@
+main.o .deps/main.Po: main.c /usr/local/pspdev/psp/sdk/include/pspsdk.h \
+  /usr/local/pspdev/psp/sdk/include/pspkerneltypes.h \
+  /usr/local/pspdev/psp/sdk/include/psptypes.h \
+  /usr/local/pspdev/psp/sdk/include/pspmodulemgr.h \
+  /usr/local/pspdev/psp/sdk/include/pspmoduleinfo.h \
+  /usr/local/pspdev/psp/sdk/include/pspthreadman.h \
+  /usr/local/pspdev/psp/sdk/include/pspdebug.h \
+  /usr/local/pspdev/psp/sdk/include/pspiofilemgr.h \
+  /usr/local/pspdev/psp/sdk/include/pspiofilemgr_fcntl.h \
+  /usr/local/pspdev/psp/sdk/include/pspiofilemgr_stat.h \
+  /usr/local/pspdev/psp/sdk/include/pspiofilemgr_dirent.h \
+  /usr/local/pspdev/psp/sdk/include/psputility_modules.h \
+  /usr/local/pspdev/psp/sdk/include/pspumd.h \
+  /usr/local/pspdev/psp/sdk/include/pspctrl.h \
+  /home/qwikrazor87/vprovita/common/module2.h \
+  /home/qwikrazor87/vprovita/common/macros.h \
+  /home/qwikrazor87/vprovita/common/rebootconfig.h \
+  /home/qwikrazor87/vprovita/common/offsets.h \
+  /home/qwikrazor87/vprovita/common/gameinfo.h \
+  /home/qwikrazor87/vprovita/common/gameexploitconfig.h \
+  /home/qwikrazor87/vprovita/common/kermit.h \
+  /home/qwikrazor87/vprovita/common/offsets_310.h \
+  /home/qwikrazor87/vprovita/common/systemctrl_se.h \
+  /home/qwikrazor87/vprovita/common/rc4.h \
+  /home/qwikrazor87/vprovita/common/psid.h encryptloader.h

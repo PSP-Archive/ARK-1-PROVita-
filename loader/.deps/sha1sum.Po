@@ -1,0 +1,1 @@
+sha1sum.o .deps/sha1sum.Po: sha1sum.c
